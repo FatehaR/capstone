@@ -1,6 +1,6 @@
 # Credit Card Spending Prediction with Machine Learning
 
-This project is a part of Capstone Project during my Data Engineering Certification Training with The Center of Applied Data Science (CADS).
+This project is a part of Capstone Project during my **Data Engineering Certification** Training with The Center of Applied Data Science (CADS).
 A group project of 5 people led by me, this project focuses on **Data Cleaning** and **Data Prediction** using Machine Learning on Credit Card Customers data[^1]. 
 The process involved in this project includes: 
 
