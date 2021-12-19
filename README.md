@@ -8,7 +8,7 @@ The process involved in this project includes:
 2. Exploratory Data Analysis and visualization with **seaborn** and **matplotlib**.
 3. Modelling using **scikit-learn** (RandomForestRegressor).
 
-All process was compiled in [this Jupyter notebook](https://github.com/FatehaRozy/capstone/blob/main/Credit%20Card%20Spend%20prediction%20_%20Key%20Drivers%20SC.ipynb).
+All process was compiled in [this Jupyter notebook](https://github.com/FatehaRozy/credit-card-prediction/blob/main/Credit%20Card%20Spend%20prediction%20_%20Key%20Drivers%20SC.ipynb).
 
 [^1]: Data used is a mock data and have been permitted to be used in students' portfolio.
 
